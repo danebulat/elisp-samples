@@ -1,0 +1,9 @@
+# OS
+.DS_Store
+
+# Emacs
+.\#*
+\#*
+
+# Misc
+dev
